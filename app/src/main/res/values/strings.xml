@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="login_button">Login</string>
+    <string name="email_hint_login">Email</string>
+    <string name="passwd_hint_login">Password</string>
+    <string name="welcome_login">Welcome</string>
+    <string name="new_todo">New TODO</string>
+    <string name="task_date">Select date</string>
+    <string name="task_time">Select time</string>
+    <string name="add_todo">Add a Todo</string>
+    <string name="task_titel">Titel</string>
+    <string name="task_priority">Important</string>
+    <string name="task_is_done">Done</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="save_btn">Save</string>
+    <string name="update_btn">Update</string>
+    <string name="contact_btn">Contact</string>
+    <string-array name="options">
+        <item>Date + Important</item>
+        <item>Important + Date</item>
+    </string-array>
+</resources>
